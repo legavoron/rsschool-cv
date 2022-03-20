@@ -1,1 +1,1 @@
-# rsschool-cv
+https://legavoron.github.io/rsschool-cv/cv
