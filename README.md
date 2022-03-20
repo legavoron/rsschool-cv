@@ -1,1 +1,1 @@
-https://legavoron.github.io/rsschool-cv/cv
+https://legavoron.github.io/rsschool-cv/
